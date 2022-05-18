@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdio.h>
+#include <mem.h>
 
 int main()
 {
