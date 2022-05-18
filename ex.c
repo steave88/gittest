@@ -5,6 +5,7 @@
 int main()
 {
     printf("hello world.\n");
+    printf("test a patch\n");
     return 0;
 	
 }
